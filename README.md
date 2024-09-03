@@ -1,7 +1,7 @@
 ## Hi there 👋
 
 # 💫 About Me:
-Curious to learning Python <br>Exploring Python for Network Automation <br>Noob at ML
+Curious to learning Python <br>Exploring Python for Network Automation 
 
 
 ## 🌐 Socials:
