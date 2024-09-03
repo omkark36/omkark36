@@ -20,7 +20,7 @@ Curious to learning Python <br>Exploring Python for Network Automation <br>Noob 
 ![](https://github-contributor-stats.vercel.app/api?username=omkark36&limit=5&theme=monokai&combine_all_yearly_contributions=true)
 
 ---
-[![](https://visitcount.itsvg.in/api?id=omkark36&icon=5&color=0)](https://visitcount.itsvg.in)
+
 
 [![](https://visitcount.itsvg.in/api?id=omkark36&label=Profile%20Views&pretty=false)](https://visitcount.itsvg.in)
 
