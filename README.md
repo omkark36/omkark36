@@ -22,4 +22,6 @@ Curious to learning Python <br>Exploring Python for Network Automation <br>Noob 
 ---
 [![](https://visitcount.itsvg.in/api?id=omkark36&icon=5&color=0)](https://visitcount.itsvg.in)
 
+[![](https://visitcount.itsvg.in/api?id=omkark36&label=Profile%20Views&pretty=false)](https://visitcount.itsvg.in)
+
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
